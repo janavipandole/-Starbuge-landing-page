@@ -22,7 +22,6 @@ Navigation Arrows: Buttons (#prev, #next) to change slides manually.
 CSS Styling (style.css)
 Purpose:
 Handles layout, transitions, animations, and responsiveness for the carousel.
-
 Key Components:
 Base Styles
 Sets fonts, box model, and basic layout using Grid.
